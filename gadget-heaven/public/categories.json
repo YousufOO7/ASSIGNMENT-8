@@ -1,0 +1,19 @@
+[
+    {
+        "phone_id": "1",
+        "category": "Smartphone"
+    },
+    {
+        "laptop_id": "LP1001",
+        "category": "Laptop"
+    },
+    
+    {
+        "watch_id": "sw001",
+        "category": "Smartwatch"
+    },
+    {
+        "Accessories": "2241",
+        "category" : "Accessories"
+    }
+]
